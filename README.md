@@ -5,8 +5,9 @@ A lightweight productivity timer with a small attitude problem.
 
 Discipline-Chan tracks how you spend your time — and reacts accordingly.
 Work consistently, and she approves.
-Procrastinate too long… and she becomes visibly disappointed.
+Procrastinate too long… and she becomes visibly disappointed. 
 
+This project is free. If you’d like to support development, you can do so here:
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/moun4u)
 
 <br/>
@@ -87,10 +88,11 @@ You can:
 - Reset the goofing timer
 - Set the time required to reach maximum anger
 - Adjust how strict the system feels
-  <b>
+
+<b>
   Make her forgiveing. <br/>
   Or don't.
-  <b/> <br/> <br/>
+<b/> <br/> <br/>
 
 ---
 
