@@ -6,7 +6,7 @@ Last Updated: 17.02.2026
 
 Discipline-Chan (Time Tracker Assistant) is a browser extension designed to help users track time spent on websites and encourage productivity.
 
-We respect your privacy. This extension does not collect, transmit, or sell personal data.
+We respect your privacy. This extension does not collect, transmit, sell, or share personal data.
 
 2. Data Collection
 
@@ -28,9 +28,8 @@ The extension uses the following permissions:
 - tabs — to detect the active website and categorize time usage
 - storage — to store timers, streaks, and settings locally
 - host permissions (<all_urls>) — to determine which site you are currently visiting for time tracking purposes
-- These permissions are used solely to provide the extension’s core functionality.
 
-The extension does not read, store, or analyze page content, form inputs, passwords, or personal information from websites.
+These permissions are used solely to provide the extension’s core functionality. The extension does not read, store, or analyze page content, form inputs, passwords, or personal information from websites.
 
 4. Data Sharing
 
@@ -40,7 +39,7 @@ The extension does not read, store, or analyze page content, form inputs, passwo
 
 5. Security
 
-All information is stored locally using the browser’s built-in storage APIs.
+All information is stored locally using the browser’s built-in storage APIs and is not accessible outside the user’s browser environment.
 
 6. Changes to This Policy
 
@@ -52,4 +51,4 @@ For questions or concerns, please contact the developer via the GitHub page list
 
 GitHub: https://github.com/moun4u/
 
-Email:  moun4u@users.noreply.github.com 
+Email:  176793511+moun4u@users.noreply.github.com
