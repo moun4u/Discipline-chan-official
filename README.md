@@ -7,7 +7,7 @@ Discipline-Chan tracks how you spend your time — and reacts accordingly.
 Work consistently, and she approves.
 Procrastinate too long… and she becomes visibly disappointed. 
 
-This project is free. If you’d like to support development, you can do so [here](https://www.buymeacoffee.com/moun4u)
+This project is free. If you’d like to support development, you can do so [here](https://www.buymeacoffee.com/moun4u).
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/moun4u)
 
@@ -77,7 +77,10 @@ Work for at least one hour and her anger resets.
 Professional? Maybe.
 Judgmental? Absolutely.
 
-## <br/><br/><br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## ⚙ Customization
 
@@ -91,9 +94,9 @@ You can:
 - Adjust how strict the system feels
 
 <b>
-  Make her forgiveing. <br/>
+  Make her forgiving. <br/>
   Or don't.
-<b/> <br/> <br/>
+</b> <br/> <br/>
 
 ---
 
@@ -107,6 +110,23 @@ You can:
 
 Yes, this means social media is not “research.”
 
-<br/><br/><br/><br/><br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+## Privacy
+For full details, see the extension’s [privacy policy](https://github.com/moun4u/Discipline-chan-official/blob/main/privacy-policy.md)
+
+- Tracks domain and time locally
+- No analytics
+- No data collection
+- No external servers
+
+All tracking happens locally in your browser. No browsing data is transmitted externally.
 
 ---
