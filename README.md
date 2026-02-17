@@ -7,7 +7,7 @@ Discipline-Chan tracks how you spend your time — and reacts accordingly.
 Work consistently, and she approves.
 Procrastinate too long… and she becomes visibly disappointed.
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/moun4u)
 
 <br/>
 ---
@@ -22,7 +22,7 @@ Discipline-Chan is a Chrome extension designed to:
 - Make productivity slightly more entertaining
 
 👉 Available here:
-[Discipline-Chan on GitHub](https://github.com/moun4u/Discipline-Chan/tree/procrastinator-chan)
+[Discipline-Chan on GitHub](https://github.com/moun4u/Discipline-chan-official)
 
 <br/>
 
