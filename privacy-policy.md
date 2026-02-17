@@ -51,4 +51,5 @@ If the extension’s functionality changes, this policy will be updated accordin
 For questions or concerns, please contact the developer via the GitHub page listed below.
 
 GitHub: https://github.com/moun4u/
+
 Email:  moun4u@users.noreply.github.com 
