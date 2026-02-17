@@ -7,7 +7,8 @@ Discipline-Chan tracks how you spend your time — and reacts accordingly.
 Work consistently, and she approves.
 Procrastinate too long… and she becomes visibly disappointed. 
 
-This project is free. If you’d like to support development, you can do so here:
+This project is free. If you’d like to support development, you can do so [here](https://www.buymeacoffee.com/moun4u)
+
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/moun4u)
 
 <br/>
