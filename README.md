@@ -23,8 +23,8 @@ Discipline-Chan is a Chrome extension designed to:
 - Visually reflect your discipline level
 - Make productivity slightly more entertaining
 
-👉 Available here:
-[Discipline-Chan on GitHub](https://github.com/moun4u/Discipline-chan-official)
+👉 Available for free, here:
+[google chrome store](https://chromewebstore.google.com/detail/discipline-chan/hhbcffjceaabhfohbgjibgnckkjipgpd?hl=no&utm_source=ext_sidebar)
 
 <br/>
 
