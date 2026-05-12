@@ -1,18 +1,18 @@
 # Privacy Policy for Discipline-Chan / Time Tracker Assistant
 
-Last Updated: 17.02.2026
+Last Updated: 12.05.2026
 
 1. Overview
 
 Discipline-Chan (Time Tracker Assistant) is a browser extension designed to help users track time spent on websites and encourage productivity.
 
-We respect your privacy. This extension does not collect, transmit, sell, or share personal data.
+We respect your privacy. All tracking is done locally in your browser; this extension does not collect, transmit, sell, or share personal data externally.
 
 2. Data Collection
 
 This extension:
 
-- Tracks the domain of the active tab and the time spent on it locally in your browser.
+- Tracks the domain of the active tab, time spent on it, and user activity levels (to detect idle states) locally in your browser.
 - Stores user preferences locally using Chrome storage.
 - Does not collect personally identifiable information.
 - Does not transmit browsing data to external servers.
@@ -27,7 +27,8 @@ The extension uses the following permissions:
 
 - tabs — to detect the active website and categorize time usage
 - storage — to store timers, streaks, and settings locally
-- host permissions (<all_urls>) — to determine which site you are currently visiting for time tracking purposes
+- idle — to detect when the user is away from the computer, ensuring that "goofing" or "working" time is paused automatically after 5 minutes of inactivity.
+- host permissions (<all_urls>) — used only to determine the domain of the active tab for time tracking. The extension does not access page content, form data, or passwords.
 
 These permissions are used solely to provide the extension’s core functionality. The extension does not read, store, or analyze page content, form inputs, passwords, or personal information from websites.
 
@@ -51,4 +52,4 @@ For questions or concerns, please contact the developer via the GitHub page list
 
 GitHub: https://github.com/moun4u/
 
-Email:  176793511+moun4u@users.noreply.github.com
+Email: moun4u.dev@outlook.com

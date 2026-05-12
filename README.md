@@ -120,6 +120,25 @@ Yes, this means social media is not “research.”
 
 ---
 
+## 📜 Update History
+
+### [1.0.1] - 2026-05-12
+#### ✨ New Features
+- **The Butler:** A new companion has been added to the character roster!
+- **Character Menu:** Easily swap between characters in the new selection interface.
+- **UI Overhaul:** Cleaned up the menus for a smoother experience.
+
+#### 🔧 Configuration
+- **Size Control:** You can now adjust the character size to fit your workflow.
+- **Position Toggle:** Move the character to different corners of your screen.
+
+---
+
+### [1.0.0] - 2026-03-12
+- **Initial Release:** The "OG" launch featuring the Maid character and core goof-tracking logic.
+
+---
+
 ## Privacy
 For full details, see the extension’s [privacy policy](https://github.com/moun4u/Discipline-chan-official/blob/main/privacy-policy.md)
 
@@ -131,3 +150,5 @@ For full details, see the extension’s [privacy policy](https://github.com/moun
 All tracking happens locally in your browser. No browsing data is transmitted externally.
 
 ---
+
+
